@@ -1,2 +1,2 @@
 # simplejs
-A repo for simple Js workshop
+A repo for simple JS workshop
